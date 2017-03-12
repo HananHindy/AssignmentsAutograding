@@ -1,0 +1,1 @@
+Powershell.exe -executionpolicy remotesigned -File  .\autograding.ps1 
