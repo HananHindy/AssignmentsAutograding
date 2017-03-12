@@ -1,0 +1,5 @@
+D:\Dropbox\Computer Security'17 Materials\---- Staff only ----\Last Year Materials\SecurityPackage\ProjectTemplate\SecurityLibrary\bin\Debug\SecurityLibrary.dll
+D:\Dropbox\Computer Security'17 Materials\---- Staff only ----\Last Year Materials\SecurityPackage\ProjectTemplate\SecurityLibrary\bin\Debug\SecurityLibrary.pdb
+D:\Dropbox\Computer Security'17 Materials\---- Staff only ----\Last Year Materials\SecurityPackage\ProjectTemplate\SecurityLibrary\obj\Debug\SecurityLibrary.csprojResolveAssemblyReference.cache
+D:\Dropbox\Computer Security'17 Materials\---- Staff only ----\Last Year Materials\SecurityPackage\ProjectTemplate\SecurityLibrary\obj\Debug\SecurityLibrary.dll
+D:\Dropbox\Computer Security'17 Materials\---- Staff only ----\Last Year Materials\SecurityPackage\ProjectTemplate\SecurityLibrary\obj\Debug\SecurityLibrary.pdb
